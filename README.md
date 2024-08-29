@@ -30,6 +30,6 @@ Descripción breve sobre lo que hace el proyecto y su propósito.
 
 ## Autor
 
-Creado por [Tu Nombre](https://github.com/tuusuario) - ¡Si te gusta el proyecto, no dudes en contactarme!
+Creado por [Rodrigo Solis C](https://github.com/RODSC15) - ¡Si te gusta el proyecto, no dudes en contactarme!
 
 
